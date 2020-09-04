@@ -1,5 +1,5 @@
-mackie
-hass
-ced
-caleb
+echo "mackie"
+echo "hass"
+echo "ced"
+echo "caleb"
 
